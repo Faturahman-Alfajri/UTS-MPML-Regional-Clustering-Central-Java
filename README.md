@@ -56,8 +56,8 @@ The two clusters can be interpreted as:
 - `UTS_MPML_Regional_Clustering_Central_Java.ipynb`  
   Jupyter Notebook / Google Colab file containing the full analysis process.
 
-- `central_java_clustering_2024.xlsx`
-  Dataset for the project.
+- `central_java_clustering_2024.xlsx`  
+  Original compiled dataset from BPS before preprocessing.
 
 - `01_cleaned_central_java_clustering_2024.csv`  
   Cleaned dataset used in the analysis.
